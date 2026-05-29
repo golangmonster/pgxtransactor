@@ -1,14 +1,14 @@
-# pgxpool-transactor
+# pgxtransactor
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-pgxpool-transactor is a pgxpool wrapper to execute code fragments within postgres transaction.
+pgxtransactor is a pgxpool wrapper for executing code within a PostgreSQL transaction.
 
-Easiest way to get the perfect repository.
+The easiest way to build transaction-safe repositories.
 
 ## Installation
 ```bash
-go get github.com/golangmonster/pgxpool-transactor/v1
+go get github.com/golangmonster/pgxtransactor
 ```
 
 ## Usage
