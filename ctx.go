@@ -1,4 +1,4 @@
-package pgxpool_transactor
+package pgxtransactor
 
 import (
 	"context"

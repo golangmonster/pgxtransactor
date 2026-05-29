@@ -1,4 +1,4 @@
-package pgxpool_transactor
+package pgxtransactor
 
 import "github.com/jackc/pgx/v5/pgxpool"
 
